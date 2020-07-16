@@ -15,7 +15,9 @@ https://git.heroku.com/apptky.git
 
 #### pipeline - linked github | netlify
 
-
+###### Heroku Git used herokuCLI
+###### Github connected to
+###### Container Registry used herokuCLI
 
 
 ```
